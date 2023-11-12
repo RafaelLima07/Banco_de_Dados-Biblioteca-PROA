@@ -14,7 +14,7 @@ Nessa parte temos o id do autor, seu nome e idade.
 ## Tabela de Editoras
 Já aqui temos o id da editora, nome e cep.
 
-![3](https://github.com/RafaelLima07/Banco_de_Dados-Biblioteca-PROA/blob/main/Assets/Tabela_Editoras.png)
+![3](https://github.com/RafaelLima07/Banco_de_Dados-Biblioteca-PROA/blob/main/Assets/Tabela-Editoras.png)
 
 ## Tabela Geral
 Essa é uma tabela que reúne os dados referentes as três tabelas anteriores.
