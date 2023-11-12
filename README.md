@@ -20,3 +20,7 @@ Já aqui temos o id da editora, nome e cep.
 Essa é uma tabela que reúne os dados referentes as três tabelas anteriores.
 
 ![4](https://github.com/RafaelLima07/Banco_de_Dados-Biblioteca-PROA/blob/main/Assets/Tabela-Geral.png)
+
+# Tecnologias Utilizadas
+
+### MySQl Workbench
